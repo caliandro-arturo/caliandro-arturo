@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-<!--
-**caliandro-arturo/caliandro-arturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arturo and this account contains (almost) all the projects I did so far within Politecnico di Milano.
 
-Here are some ideas to get you started:
+Their significance for me is *priceless*: not because they represent my code-style, but because they represent what I had to go through to fill in my gaps.
 
+Should you have anything to ask me, please reach me @ arturo.caliandro@mail.polimi.it: I always read e-mails :)
+
+*Enjoy* 🌱
+
+<!---
+Left here in case I will add some of them in the future
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
