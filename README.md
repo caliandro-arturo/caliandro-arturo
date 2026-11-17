@@ -1,21 +1,8 @@
-### Hi there 👋
+### Nice to meet you!
 
-I'm Arturo and this account contains (almost) all the projects I did so far within Politecnico di Milano.
+I am Arturo, and this is the Github account I use for stuff related to Politecnico di Milano.
 
-Their significance for me is *priceless*: not because they represent my code-style, but because they represent what I had to go through to fill in my gaps.
+Here you can find
+- projects done as a student of Computer Science and Engineering, before obtaining the MS degree in 2026;
+- (some) projects that I am currently working on as a Research Fellow.
 
-Should you have anything to ask me, please reach me at: arturo.caliandro AT mail.polimi.it : I always read e-mails :)
-
-*Enjoy* 🌱
-
-<!---
-Left here in case I will add some of them in the future
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
